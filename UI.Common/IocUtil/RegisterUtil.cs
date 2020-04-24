@@ -32,7 +32,7 @@ namespace UI.Common.IocUtil
         public static void RegisterAssembly(this IServiceCollection services, string assemblyName)
         {
             var serviceAsm = Assembly.Load(assemblyName);
-            var serviceTypes = serviceAsm.GetTypes().Where(t => !t.GetTypeInfo().IsAbstract).ToArray();
+            var serviceTypes = serviceAsm.GetTypes().ToArray();
             foreach (Type serviceType in serviceTypes)
             {
                 var attr = serviceType.GetCustomAttribute<ServiceTagAttribute>(true);
@@ -41,20 +41,29 @@ namespace UI.Common.IocUtil
                     continue;
                 }
 
-                if (actions.TryGetValue(attr.GetType(), out Action<IServiceCollection, Type, Type> action))
+                if (!actions.TryGetValue(attr.GetType(), out Action<IServiceCollection, Type, Type> action))
                 {
-                    if (attr.IocType != null)
-                    {
-                        action.Invoke(services, serviceType, attr.IocType);
-                        continue;
-                    }
+                    continue;
+                }
 
-                    var interfaces = serviceType.GetInterfaces();
+                if (attr.IocType != null)
+                {
+                    action.Invoke(services, serviceType, attr.IocType);
+                    continue;
+                }
+
+                var interfaces = serviceType.GetInterfaces();
+                if (interfaces.Any())
+                {
                     foreach (var item in interfaces)
                     {
                         action.Invoke(services, serviceType, item);
                     }
+
+                    continue;
                 }
+
+                action.Invoke(services, serviceType, serviceType);
             }
         }
     }

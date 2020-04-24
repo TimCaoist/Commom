@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\code\\ShoppingMall\\ShoppingMall\\Server\\TM.Shop.Web\\UI.Common\\UI.Common.csproj",
+      "projectUniqueName": "F:\\code\\Commom\\UI.Common\\UI.Common.csproj",
       "projectName": "UI.Common",
-      "projectPath": "F:\\code\\ShoppingMall\\ShoppingMall\\Server\\TM.Shop.Web\\UI.Common\\UI.Common.csproj",
+      "projectPath": "F:\\code\\Commom\\UI.Common\\UI.Common.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "F:\\code\\ShoppingMall\\ShoppingMall\\Server\\TM.Shop.Web\\UI.Common\\obj\\",
+      "outputPath": "F:\\code\\Commom\\UI.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
