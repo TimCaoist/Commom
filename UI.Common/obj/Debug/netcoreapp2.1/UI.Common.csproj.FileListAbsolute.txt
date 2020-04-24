@@ -10,15 +10,3 @@ F:\code\ShoppingMall\ShoppingMall\Server\TM.Shop.Web\UI.Common\obj\Debug\netcore
 F:\code\ShoppingMall\ShoppingMall\Server\TM.Shop.Web\UI.Common\obj\Debug\netcoreapp2.1\UI.Common.csproj.CopyComplete
 F:\code\ShoppingMall\ShoppingMall\Server\TM.Shop.Web\UI.Common\obj\Debug\netcoreapp2.1\UI.Common.dll
 F:\code\ShoppingMall\ShoppingMall\Server\TM.Shop.Web\UI.Common\obj\Debug\netcoreapp2.1\UI.Common.pdb
-F:\code\Commom\UI.Common\bin\Debug\netcoreapp2.1\UI.Common.deps.json
-F:\code\Commom\UI.Common\bin\Debug\netcoreapp2.1\UI.Common.dll
-F:\code\Commom\UI.Common\bin\Debug\netcoreapp2.1\UI.Common.pdb
-F:\code\Commom\UI.Common\bin\Debug\netcoreapp2.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-F:\code\Commom\UI.Common\bin\Debug\netcoreapp2.1\Microsoft.Extensions.DependencyInjection.Abstractions.xml
-F:\code\Commom\UI.Common\obj\Debug\netcoreapp2.1\UI.Common.csprojAssemblyReference.cache
-F:\code\Commom\UI.Common\obj\Debug\netcoreapp2.1\UI.Common.csproj.CoreCompileInputs.cache
-F:\code\Commom\UI.Common\obj\Debug\netcoreapp2.1\UI.Common.AssemblyInfoInputs.cache
-F:\code\Commom\UI.Common\obj\Debug\netcoreapp2.1\UI.Common.AssemblyInfo.cs
-F:\code\Commom\UI.Common\obj\Debug\netcoreapp2.1\UI.Common.csproj.CopyComplete
-F:\code\Commom\UI.Common\obj\Debug\netcoreapp2.1\UI.Common.dll
-F:\code\Commom\UI.Common\obj\Debug\netcoreapp2.1\UI.Common.pdb
