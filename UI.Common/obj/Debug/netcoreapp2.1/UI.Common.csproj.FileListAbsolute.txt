@@ -1,0 +1,12 @@
+F:\code\ShoppingMall\ShoppingMall\Server\TM.Shop.Web\UI.Common\bin\Debug\netcoreapp2.1\UI.Common.deps.json
+F:\code\ShoppingMall\ShoppingMall\Server\TM.Shop.Web\UI.Common\bin\Debug\netcoreapp2.1\UI.Common.dll
+F:\code\ShoppingMall\ShoppingMall\Server\TM.Shop.Web\UI.Common\bin\Debug\netcoreapp2.1\UI.Common.pdb
+F:\code\ShoppingMall\ShoppingMall\Server\TM.Shop.Web\UI.Common\bin\Debug\netcoreapp2.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\code\ShoppingMall\ShoppingMall\Server\TM.Shop.Web\UI.Common\bin\Debug\netcoreapp2.1\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\code\ShoppingMall\ShoppingMall\Server\TM.Shop.Web\UI.Common\obj\Debug\netcoreapp2.1\UI.Common.csprojAssemblyReference.cache
+F:\code\ShoppingMall\ShoppingMall\Server\TM.Shop.Web\UI.Common\obj\Debug\netcoreapp2.1\UI.Common.csproj.CoreCompileInputs.cache
+F:\code\ShoppingMall\ShoppingMall\Server\TM.Shop.Web\UI.Common\obj\Debug\netcoreapp2.1\UI.Common.AssemblyInfoInputs.cache
+F:\code\ShoppingMall\ShoppingMall\Server\TM.Shop.Web\UI.Common\obj\Debug\netcoreapp2.1\UI.Common.AssemblyInfo.cs
+F:\code\ShoppingMall\ShoppingMall\Server\TM.Shop.Web\UI.Common\obj\Debug\netcoreapp2.1\UI.Common.csproj.CopyComplete
+F:\code\ShoppingMall\ShoppingMall\Server\TM.Shop.Web\UI.Common\obj\Debug\netcoreapp2.1\UI.Common.dll
+F:\code\ShoppingMall\ShoppingMall\Server\TM.Shop.Web\UI.Common\obj\Debug\netcoreapp2.1\UI.Common.pdb
